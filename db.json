@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "name": "Hello",
+      "price": "3",
+      "type": "World",
+      "brand": "Test",
+      "id": 1
+    },
+    {
+      "name": "Cookies",
+      "price": "5.99",
+      "type": "Chocolate",
+      "brand": "Chips-Ahoy",
+      "id": 2
+    },
+    {
+      "name": "Protein Powder",
+      "price": "74.95",
+      "type": "Whey",
+      "brand": "RAW",
+      "id": 3
+    },
+    {
+      "name": "Creatine",
+      "price": "24.99",
+      "type": "Monohydrate",
+      "brand": "Optimum Nutrition",
+      "id": 4
+    },
+    {
+      "name": "Gorilla Mode",
+      "price": "49.95",
+      "type": "Pre Workout",
+      "brand": "Gorilla Mind",
+      "id": 5
+    },
+    {
+      "name": "Ecdysterone",
+      "price": "59.99",
+      "type": "N/A",
+      "brand": "Intelligent Elephant",
+      "id": 6
+    }
+  ]
+}
